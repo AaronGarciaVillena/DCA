@@ -14,7 +14,7 @@ int main(){
     {
     case 's':
         cout << "Introduce el primer número a sumar: ";
-        cin >> num1
+        cin >> num1;
         cout << endl;
         cout << "Introduce el segundo número a sumar: ";
         cin >> num2;
