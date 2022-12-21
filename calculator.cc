@@ -16,7 +16,7 @@ int main(){
         cout << "Introduce el primer número a sumarlo: ";
         cin >> num1;
         cout << endl;
-        cout << "Introduce el segundo número a sumar: ";
+        cout << "Introduce el segundo número a sumarlo: ";
         cin >> num2;
         cout << endl;
         cout << "El resultado es: " << num1+num2 << endl;
