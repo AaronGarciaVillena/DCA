@@ -13,7 +13,7 @@ int main(){
     switch (opcion)
     {
     case 's':
-        cout << "Introduce el primer número a sumar: ";
+        cout << "Introduce el primer número a sumarlo: ";
         cin >> num1;
         cout << endl;
         cout << "Introduce el segundo número a sumar: ";
